@@ -1,0 +1,4 @@
+{"op":"set","id":1}
+{"k":"filebeat::logs::native::1021281-16777231","v":{"prev_id":"","type":"log","identifier_name":"native","id":"native::1021281-16777231","source":"/Users/liuzhuguan/GolandProjects/git.imooc.com/pod/micro.log","offset":0,"timestamp":[2062569945080,1667039289],"ttl":-1,"FileStateOS":{"inode":1021281,"device":16777231}}}
+{"op":"set","id":2}
+{"k":"filebeat::logs::native::1021281-16777231","v":{"prev_id":"","source":"/Users/liuzhuguan/GolandProjects/git.imooc.com/pod/micro.log","offset":0,"timestamp":[2062569945080,1667039289],"ttl":-1,"type":"log","FileStateOS":{"device":16777231,"inode":1021281},"id":"native::1021281-16777231","identifier_name":"native"}}

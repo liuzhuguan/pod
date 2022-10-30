@@ -1,0 +1,7 @@
+{"level":"fatal","ts":"2022-10-29T18:28:06.574+0800","caller":"pod/main.go:176","msg":"Error 1071: Specified key was too long; max key length is 767 bytes"}
+{"level":"fatal","ts":"2022-10-29T18:31:32.373+0800","caller":"pod/main.go:176","msg":"Error 1050: Table 'pod' already exists"}
+{"level":"fatal","ts":"2022-10-29T18:33:02.043+0800","caller":"pod/main.go:176","msg":"Error 1071: Specified key was too long; max key length is 767 bytes"}
+{"level":"fatal","ts":"2022-10-29T18:38:14.959+0800","caller":"pod/main.go:176","msg":"Error 1709: Index column size too large. The maximum column size is 767 bytes."}
+{"level":"fatal","ts":"2022-10-30T16:30:29.922+0800","caller":"pod/main.go:176","msg":"Error 1071: Specified key was too long; max key length is 767 bytes"}
+{"level":"fatal","ts":"2022-10-30T16:32:01.138+0800","caller":"pod/main.go:176","msg":"Error 1709: Index column size too large. The maximum column size is 767 bytes."}
+{"level":"fatal","ts":"2022-10-30T16:37:35.907+0800","caller":"pod/main.go:176","msg":"Error 1709: Index column size too large. The maximum column size is 767 bytes."}
