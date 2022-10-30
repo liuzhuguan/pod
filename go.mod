@@ -1,4 +1,4 @@
-module pod
+module github.com/liuzhuguan/pod
 
 go 1.16
 
