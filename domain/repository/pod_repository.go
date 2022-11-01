@@ -2,7 +2,7 @@ package repository
 
 import (
 	"github.com/jinzhu/gorm"
-	"pod/domain/model"
+	"github.com/liuzhuguan/pod/domain/model"
 )
 
 //创建需要实现的接口

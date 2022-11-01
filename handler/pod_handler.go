@@ -3,9 +3,9 @@ package handler
 import (
 	"context"
 	"git.imooc.com/coding-535/common"
-	"pod/domain/model"
-	"pod/domain/service"
-	"pod/proto/pod"
+	"github.com/liuzhuguan/pod/domain/model"
+	"github.com/liuzhuguan/pod/domain/service"
+	"github.com/liuzhuguan/pod/proto/pod"
 	"strconv"
 )
 
